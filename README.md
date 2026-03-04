@@ -69,3 +69,6 @@ Este projeto faz parte de um processo de aprendizado e pode continuar evoluindo 
 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+<img width="924" height="869" alt="image" src="https://github.com/user-attachments/assets/5fee56c2-031d-4a74-bad3-a3607c57cdfe" />
+
